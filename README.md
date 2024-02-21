@@ -1,2 +1,2 @@
-# [生存分析]
+# [Survive analyze]
 
