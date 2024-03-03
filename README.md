@@ -15,5 +15,5 @@ Perform regression analysis using machine learning, and make predictions based o
 ![image](https://github.com/rainday1029/GHPIM_med/blob/master/result/output5.png)
 
 ## Tool
-scikit-learn = 1.4.1
+scikit-learn = 1.4.1\
 SHAP = 0.28.0
