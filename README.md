@@ -16,3 +16,4 @@ Perform regression analysis using machine learning, and make predictions based o
 
 ## Tool
 scikit-learn = 1.4.1
+SHAP = 0.28.0
