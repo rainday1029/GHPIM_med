@@ -17,7 +17,7 @@ Perform regression analysis using machine learning, and make predictions based o
 
 ### 3.SHAP Value
 <p align="center">
-  <img src="https://github.com/rainday1029/GHPIM_med/blob/master/result/output3.png" width="800" height="360" alt="Fig.1 SHAP Value">
+  <img src="https://github.com/rainday1029/GHPIM_med/blob/master/result/output3.png" width="800" height="600" alt="Fig.1 SHAP Value">
 </p>
 
 ![image](https://github.com/rainday1029/GHPIM_med/blob/master/result/output3.png)![image](https://github.com/rainday1029/GHPIM_med/blob/master/result/output4.png)
