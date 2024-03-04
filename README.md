@@ -11,8 +11,11 @@ Perform regression analysis using machine learning, and make predictions based o
   <br> <strong>  Fig.1 Accuracy</strong>
 </p>
 
-### 2.PR Curve
-![image](https://github.com/rainday1029/GHPIM_med/blob/master/result/output.png)
+### 2.ROC Curve
+<p align="center">
+  <img src="https://github.com/rainday1029/GHPIM_med/blob/master/result/output.png" alt="Fig.2 ROC Curve">
+  <br> <strong>  Fig.2 ROC Curve</strong>
+</p>
 ### 3.SHAP Value
 <p align="center">
   <img src="https://github.com/rainday1029/GHPIM_med/blob/master/result/output3.png" width="450" height="360" alt="Fig.1 SHAP Value">
