@@ -11,6 +11,10 @@ Perform regression analysis using machine learning, and make predictions based o
 ### 2.PR Curve
 ![image](https://github.com/rainday1029/GHPIM_med/blob/master/result/output.png)
 ### 3.SHAP Value
+<p align="center">
+  <img src="https://github.com/rainday1029/GHPIM_med/blob/master/result/output3.png" width="400" height="360" alt="Fig.1 SHAP Value">
+  <br> <strong>Fig1.  Lab1 Architecture</strong>
+</p>
 ![image](https://github.com/rainday1029/GHPIM_med/blob/master/result/output3.png)![image](https://github.com/rainday1029/GHPIM_med/blob/master/result/output4.png)
 ![image](https://github.com/rainday1029/GHPIM_med/blob/master/result/output5.png)
 
