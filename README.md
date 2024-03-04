@@ -8,7 +8,6 @@ Perform regression analysis using machine learning, and make predictions based o
 ### 1.Accuracy
 <p align="center">
   <img src="https://github.com/rainday1029/GHPIM_med/blob/master/result/output2.png" alt="Fig.1 Accuracy">
-  <br> <strong>  Fig.1 Accuracy</strong>
 </p>
 
 ### 2.ROC Curve
